@@ -1,5 +1,5 @@
 # Hello 👋 I'm SreyMochOrng 🐼👩‍💻
-<h3>Language and Tool 🪛</h3>
+<h3>Language and Tool </h3>
 <p>
     <img alt="dart" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Dart-Dark.svg" style="width: 32px; height: 32px;" />
     <img alt="flutter" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" style="width: 32px; height: 32px;" />
